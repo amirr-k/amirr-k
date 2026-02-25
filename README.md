@@ -18,7 +18,7 @@
 ### Technical Skills
 - **Languages:** Python, C++, C, Java, JavaScript, TypeScript, SQL, Bash  
 - **Frameworks & Libraries:** React.js, FastAPI, SQLAlchemy, PyTorch, NumPy, JUnit  
-- **Developer Tools:** Git, Linux, AWS, PostgreSQL, Redis, Docker, GDB, CMake, Valgrind, VS Code  
+- **Developer Tools:** Git, Linux, AWS, PostgreSQL, Redis, Docker, GDB, CMake, Valgrind, VSCode  
 - **Concepts:** Full-Stack Development, Distributed Systems, Cloud Architecture, Machine Learning, System Design
 
 #### I'd love to connect! Feel free to contact me on [LinkedIn](https://linkedin.com/in/amirr-k)
