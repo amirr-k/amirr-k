@@ -1,24 +1,24 @@
-# My name is Amir 🤝 It's nice to meet you!
+# my name is amir 🤝
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AI,+ML,+and+Math+Enthusiast;Computer+Engineer;Bodybuilder;I+Plant+Trees+Now;So+My+Family;Rests+In+Hammocks)](https://git.io/typing-svg)
+[![typing svg](https://readme-typing-svg.herokuapp.com/?lines=software+engineer;ai,+ml,+math+enthusiast;computer+engineer;bodybuilder;i+plant+trees+now;so+my+family;rests+in+hammocks+later)](https://git.io/typing-svg)
 
-### 🔱 I'm a junior studying Computer Engineering at UC San Diego 🔱
+### 🔱 i'm a junior studying computer engineering at uc san diego 🔱
 
-### I'm currently:
-- Sharpening my C++ and OS fundamentals
-- Learning as much as possible about Machine Learning and Artificial Intelligence
-- Working as a Software and Systems Engineer for UCSD's IEEE RoboCup Team
+### i'm currently:
+- sharpening my c++ & os fundamentals
+- learning as much as possible about machine learning & artificial intelligence
+- working as a software & systems engineer for ucsd's ieee robocup team
 
-### This quarter, I'm enrolled in:
-- CSE150B (Intro to Artificial Intelligence)
-- ECE108 (Digital Circuits)
-- ECE111 (Advanced Digital Design)
+### this quarter, i'm enrolled in:
+- cse150b (intro to artificial intelligence)
+- ece108 (digital circuits)
+- ece111 (advanced digital design)
 
-### Technical Skills
-- Languages: Python, C++, C, Java, JavaScript, TypeScript, SQL, Bash  
-- Frameworks & Libraries:** React.js, FastAPI, SQLAlchemy, PyTorch, NumPy, JUnit  
-- Developer Tools: Git, Linux, AWS, PostgreSQL, Redis, Docker, GDB, CMake, Valgrind, VSCode  
-- Concepts: Full-Stack Development, Distributed Systems, Cloud Architecture, Machine Learning, System Design
+### technical skills
+- languages: python, c++, c, java, javascript, typescript, sql, bash  
+- frameworks & libraries: react.js, fastapi, sqlalchemy, pytorch, numpy, junit  
+- developer tools: git, linux, aws, postgresql, redis, docker, gdb, cmake, valgrind, vscode  
+- concepts: full-stack development, distributed systems, cloud architecture, machine learning, system design
 
-### I'd love to connect! Feel free to contact me on [LinkedIn](https://linkedin.com/in/amirr-k)
+### i'd love to connect! feel free to contact me on [linkedin](https://linkedin.com/in/amirr-k)
