@@ -1,5 +1,4 @@
-# Welcome to my profile!<br>
-Let me introduce myself. My name is Amir 🤝
+# Welcome to my profile!<br> Let me introduce myself. My name is Amir 🤝
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AI,+ML,+and+Math+Enthusiast;Computer+Engineer;Bodybuilder;I+Plant+Trees+Now;So+My+Family;Rests+In+Hammocks)](https://git.io/typing-svg)
