@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi! I'm Amir!
 
-<!--
-**amirr-k/amirr-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AI,+ML,+and+Math+Enthusiast;Computer+Engineer;Bodybuilder;I+Plant+Trees+Now;So+My+Family+Can+Hang+Hammocks+Later)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+🔱 I'm a junior Computer Engineering student at UC San Diego 🔱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm currently:
+- Sharpening my C++ and OS fundamentals
+- Learning as much as possible about Machine Learning and Artificial Intelligence
+- Working as a Software and Systems Engineer for UCSD's IEEE RoboCup Team
+
+I'd love to connect! Feel free to contact me on [LinkedIn](https://linkedin.com/in/amirr-k)
