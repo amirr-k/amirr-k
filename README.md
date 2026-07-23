@@ -13,6 +13,7 @@
 ### this quarter, i'm enrolled in:
 - cse190 (unsupervised learning)
 - cse167 (computer graphics)
+- ge classes
 
 ### technical skills
 - languages: python, c++, c, java, javascript, typescript, sql, bash  
