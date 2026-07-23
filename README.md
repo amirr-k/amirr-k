@@ -11,9 +11,8 @@
 - working as a software & systems engineer for ucsd's ieee robocup team
 
 ### this quarter, i'm enrolled in:
-- cse150b (intro to artificial intelligence)
-- ece108 (digital circuits)
-- ece111 (advanced digital design)
+- cse190 (unsupervised learning)
+- cse167 (computer graphics)
 
 ### technical skills
 - languages: python, c++, c, java, javascript, typescript, sql, bash  
