@@ -3,7 +3,7 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 [![typing svg](https://readme-typing-svg.herokuapp.com/?lines=software+engineer;ai,+ml,+math+enthusiast;computer+engineer;bodybuilder;i+plant+trees+now;so+my+family;rests+in+hammocks+later)](https://git.io/typing-svg)
 
-### 🔱 i'm a junior studying computer engineering at uc san diego 🔱
+### 🔱 i'm a senior studying computer engineering at uc san diego 🔱
 
 ### i'm currently:
 - sharpening my c++ & os fundamentals
