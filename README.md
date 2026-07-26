@@ -6,9 +6,9 @@
 ### 🔱 i'm a senior studying computer engineering at uc san diego 🔱
 
 ### i'm currently:
-- sharpening my c++ & os fundamentals
+- building new projects
 - learning as much as possible about machine learning & artificial intelligence
-- working as a software & systems engineer for ucsd's ieee robocup team
+- working as a software engineer intern at ibm on the db2 agentic ai team
 
 ### this quarter, i'm enrolled in:
 - cse190 (unsupervised learning)
