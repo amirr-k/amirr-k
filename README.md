@@ -22,4 +22,4 @@
 - concepts: full-stack development, distributed systems, cloud architecture, machine learning, system design
 
 ### i'd love to connect! feel free to contact me on [linkedin](https://linkedin.com/in/amirr-k)
-### [website](https://amirr-k.github.io/portfolio)
+### [more about me](https://amirr-k.github.io/portfolio)
