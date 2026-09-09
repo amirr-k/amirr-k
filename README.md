@@ -8,7 +8,7 @@
 ### i'm currently:
 - building new projects
 - learning as much as possible about machine learning & artificial intelligence
-- working as a software engineer intern at ibm on the db2 agentic ai team
+- solving coding puzzles 
 
 ### this quarter, i'm enrolled in:
 - cse190 (unsupervised learning)
